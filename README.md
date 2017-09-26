@@ -13,6 +13,8 @@
 
 1. [数据清洗(js版)](https://github.com/AprilJoy/blog/issues/1)
 
+### **生活随笔**
 
+1. [<呼吸>笔记](https://github.com/AprilJoy/blog/issues/2)
 
 ----
