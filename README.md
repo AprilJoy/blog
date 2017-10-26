@@ -15,7 +15,7 @@
 
 ### **后端技术积累**
 
-1. [python基础一](https://github.com/AprilJoy/blog/issues/1)
+1. [python基础一](https://github.com/AprilJoy/blog/issues/3)
 
 ### **生活随笔**
 
