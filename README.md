@@ -16,6 +16,7 @@
 ### **后端技术积累**
 
 1. [python基础一](https://github.com/AprilJoy/blog/issues/3)
+2. [pandas入门](https://github.com/AprilJoy/blog/issues/5)
 
 ### **生活随笔**
 
